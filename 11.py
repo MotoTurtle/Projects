@@ -4,3 +4,4 @@ try:
         print("Beer")
 except ValueError:
     print("Введите число, а не символ")
+print("Всё хорошо!")
